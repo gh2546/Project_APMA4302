@@ -1,0 +1,24 @@
+Running with PETSc on 6 MPI rank(s)...
+Number of active cells: 11716
+Number of degrees of freedom: 66049
+   Number of active cells:       65536
+   Number of degrees of freedom: 66049
+Beginning Eigensolve...
+Volume Average of Random Field = 0.000364442
+Total Volume = 4
+
+
++---------------------------------------------+------------+------------+
+| Total wallclock time elapsed since start    |       138s |            |
+|                                             |            |            |
+| Section                         | no. calls |  wall time | % of total |
++---------------------------------+-----------+------------+------------+
+| assembly                        |         1 |      1.29s |      0.94% |
+| generate random field           |         1 |   0.00202s |         0% |
+| grid generator                  |         1 |      1.94s |       1.4% |
+| output                          |         1 |      6.17s |       4.5% |
+| setup                           |         1 |     0.824s |       0.6% |
+| solver                          |         1 |       128s |        92% |
+| statistics for random field     |         1 |     0.127s |         0% |
++---------------------------------+-----------+------------+------------+
+

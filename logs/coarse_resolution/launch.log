@@ -1,0 +1,63 @@
+***********************************************************************
+Launching new job. 
+
+Code is stored in the dir:/home/ashutosh/codes/dealii_code/examples/KLexpansion
+Command executed on the shell is: mpirun -n 6 klexpansion > out.log 
+Job has been launched on 13/12/2020 16:31:39.
+Job has been completed on 13/12/2020 16:33:58 and output has been stored in out.log file.
+Copying the data from code directory:/home/ashutosh/codes/dealii_code/examples/KLexpansion to result directory:/home/ashutosh/codes/dealii_code/examples/KLexpansion_results/6
+Cleaning the code directory and preparing it for new job.
+Putting the scheduler on sleep for 10 seconds.
+***********************************************************************
+***********************************************************************
+Launching new job. 
+
+Code is stored in the dir:/home/ashutosh/codes/dealii_code/examples/KLexpansion
+Command executed on the shell is: mpirun -n 5 klexpansion > out.log 
+Job has been launched on 13/12/2020 16:34:08.
+Job has been completed on 13/12/2020 16:36:35 and output has been stored in out.log file.
+Copying the data from code directory:/home/ashutosh/codes/dealii_code/examples/KLexpansion to result directory:/home/ashutosh/codes/dealii_code/examples/KLexpansion_results/5
+Cleaning the code directory and preparing it for new job.
+Putting the scheduler on sleep for 10 seconds.
+***********************************************************************
+***********************************************************************
+Launching new job. 
+
+Code is stored in the dir:/home/ashutosh/codes/dealii_code/examples/KLexpansion
+Command executed on the shell is: mpirun -n 4 klexpansion > out.log 
+Job has been launched on 13/12/2020 16:36:45.
+Job has been completed on 13/12/2020 16:39:26 and output has been stored in out.log file.
+Copying the data from code directory:/home/ashutosh/codes/dealii_code/examples/KLexpansion to result directory:/home/ashutosh/codes/dealii_code/examples/KLexpansion_results/4
+Cleaning the code directory and preparing it for new job.
+Putting the scheduler on sleep for 10 seconds.
+***********************************************************************
+***********************************************************************
+Launching new job. 
+
+Code is stored in the dir:/home/ashutosh/codes/dealii_code/examples/KLexpansion
+Command executed on the shell is: mpirun -n 3 klexpansion > out.log 
+Job has been launched on 13/12/2020 16:39:36.
+Job has been completed on 13/12/2020 16:43:23 and output has been stored in out.log file.
+Copying the data from code directory:/home/ashutosh/codes/dealii_code/examples/KLexpansion to result directory:/home/ashutosh/codes/dealii_code/examples/KLexpansion_results/3
+Cleaning the code directory and preparing it for new job.
+Putting the scheduler on sleep for 10 seconds.
+***********************************************************************
+***********************************************************************
+Launching new job. 
+
+Code is stored in the dir:/home/ashutosh/codes/dealii_code/examples/KLexpansion
+Command executed on the shell is: mpirun -n 2 klexpansion > out.log 
+Job has been launched on 13/12/2020 16:43:33.
+Job has been completed on 13/12/2020 16:48:06 and output has been stored in out.log file.
+Copying the data from code directory:/home/ashutosh/codes/dealii_code/examples/KLexpansion to result directory:/home/ashutosh/codes/dealii_code/examples/KLexpansion_results/2
+Cleaning the code directory and preparing it for new job.
+Putting the scheduler on sleep for 10 seconds.
+***********************************************************************
+***********************************************************************
+Launching new job. 
+
+Code is stored in the dir:/home/ashutosh/codes/dealii_code/examples/KLexpansion
+Command executed on the shell is: mpirun -n 1 klexpansion > out.log 
+Job has been launched on 13/12/2020 16:48:16.
+Job has been completed on 13/12/2020 16:56:02 and output has been stored in out.log file.
+Copying the data from code directory:/home/ashutosh/codes/dealii_cod
