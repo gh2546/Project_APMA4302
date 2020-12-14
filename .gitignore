@@ -127,6 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+<<<<<<< HEAD
 
 # Macbook local file
 .DS_Store
+=======
+>>>>>>> parent of 9fc1138... Adding new folders and scripts
