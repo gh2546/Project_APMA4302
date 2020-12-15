@@ -3,11 +3,48 @@ Project APMA 4302 is a repository dedicated to the course project titled "Genera
 
 # Organization of this directory
 ```
+3 directories, 2 files
 .
 ├── LICENSE
 ├── README.md
 ├── data
+│   └── file
 ├── figures
-└── logs
+│   ├── coarse_resolution
+│   │   ├── profiling.png
+│   │   ├── roof_line.png
+│   │   ├── speed_up_strong.png
+│   │   ├── speed_up_strong1.png
+│   │   ├── strong_scaling.png
+│   │   ├── weak_scaling.png
+│   │   └── weak_scaling_speedup.png
+│   └── fine_resolution
+│       ├── profiling.png
+│       ├── roof_line.png
+│       ├── speed_up_strong.png
+│       ├── speed_up_strong1.png
+│       ├── strong_scaling.png
+│       ├── weak_scaling.png
+│       └── weak_scaling_speedup.png
+├── logs
+│   ├── coarse_resolution
+│   │   ├── launch.log
+│   │   ├── out1.log
+│   │   ├── out2.log
+│   │   ├── out3.log
+│   │   ├── out4.log
+│   │   ├── out5.log
+│   │   └── out6.log
+│   └── fine_resolution
+│       ├── launch.log
+│       ├── out_1.log
+│       ├── out_2.log
+│       ├── out_3.log
+│       ├── out_4.log
+│       ├── out_5.log
+│       └── out_6.log
+└── src
+    ├── scaling_coarse.ipynb
+    └── scaling_fine.ipynb
 
-3 directories, 2 files
+8 directories, 33 files
