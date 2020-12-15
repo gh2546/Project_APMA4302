@@ -1,2 +1,4 @@
 # Macbook local file
 .DS_Store
+#python
+*.ipynb_checkpoints*
