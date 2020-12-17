@@ -48,3 +48,51 @@ Project APMA 4302 is a repository dedicated to the course project titled "Genera
     └── scaling_fine.ipynb
 
 8 directories, 33 files
+.
+├── LICENSE
+├── README.md
+├── data
+│   └── README.txt
+├── figures
+│   ├── coarse_resolution
+│   │   ├── profiling.png
+│   │   ├── roof_line.png
+│   │   ├── speed_up_strong.png
+│   │   ├── speed_up_strong1.png
+│   │   ├── strong_scaling.png
+│   │   ├── weak_scaling.png
+│   │   └── weak_scaling_speedup.png
+│   └── fine_resolution
+│       ├── profiling.png
+│       ├── roof_line.png
+│       ├── speed_up_strong.png
+│       ├── speed_up_strong1.png
+│       ├── strong_scaling.png
+│       ├── weak_scaling.png
+│       └── weak_scaling_speedup.png
+├── logs
+│   ├── coarse_resolution
+│   │   ├── launch.log
+│   │   ├── out1.log
+│   │   ├── out2.log
+│   │   ├── out3.log
+│   │   ├── out4.log
+│   │   ├── out5.log
+│   │   └── out6.log
+│   └── fine_resolution
+│       ├── launch.log
+│       ├── out1.log
+│       ├── out2.log
+│       ├── out3.log
+│       ├── out4.log
+│       ├── out5.log
+│       └── out6.log
+├── reports
+│   └── APMA4302_REPORT.pdf
+└── src
+    ├── CMakeLists.txt
+    ├── klexpansion.cpp
+    ├── scaling_coarse.ipynb
+    └── scaling_fine.ipynb
+
+9 directories, 36 files
